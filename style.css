@@ -119,7 +119,7 @@ a
   
   
   background-color: var(--background-color);
-  background: url("images/geometric8.jpg");
+  background: url("images/amazing-animal-beautiful-beautifull.jpg");
   background-attachment: fixed;
   background-size: cover;
   /* align-items: center;
@@ -200,7 +200,7 @@ a.links:hover
 }
 .links:visited
 {
-  color: white;
+  color: --gold;
 }
 .class3
 {
