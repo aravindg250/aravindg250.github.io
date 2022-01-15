@@ -77,8 +77,8 @@ a
 {
   color: white;
   padding: 50px 0px 0px 50px;
-  font-size: 100px;
-  font-weight: bold;
+  font-size: 80px;
+  /* font-weight: bold; */
   transition: all 1s ease-in-out;
 }
 
@@ -87,13 +87,13 @@ a
 .container li {
   font-size: 3rem;
   padding: 0.5rem;
-  font-weight: bold;
+  /* font-weight: bold; */
   letter-spacing: 0.1rem;
   text-align: left;
   overflow: hidden;
 }
 .container li span.typed-text {
-  font-weight: bold;
+  /* font-weight: bold; */
   color: var(--gold);
 }
 .container li span.cursor {
